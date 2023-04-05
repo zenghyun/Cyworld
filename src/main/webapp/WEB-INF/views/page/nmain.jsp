@@ -76,33 +76,6 @@
 	<div class="item item2"></div>
 	<div class="item item2"></div>
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-	<!-- 검색 팝업창 -->
-	<script>
-		// 검색 팝업창
-		function searchPopUp() {
-			//let popUrl = "main_search_popup.do";
-			let popOption = "top=100, left=800, width=600, height=800, status=no, menubar=no, toolbar=no, resizable=no";
-			window.open("", "search", popOption);
-			document.sf.action = "main_search_popup.do";
-			document.sf.target="search";
-			document.sf.submit();
-		}
-	</script>
-	
-	<!-- 로그인 -->
-	<script>
-		// 로그인
-		function goLogin() {
-			location.href = "logout.do"
-		}
-	</script>
-	
-	<!-- 회원가입 -->
-	<script>
-		// 회원가입
-		function memberJoin() {
-			location.href = "login_authentication.do?platform=cyworld";
-		}
-	</script>
+	<script src="/cyworld_oracle/src/main/webapp/resources/js/category/nmain.js"></script>
 </body>
 </html>

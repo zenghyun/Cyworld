@@ -42,30 +42,6 @@
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 	<!-- Ajax활용을 위한 js파일 로드 -->
 	<script src="/cyworld_oracle/resources/js/httpRequest.js"></script>
-	<script>
-		// 다이어리 글 수정
-		function send(f) {
-			var url = "diary_modify.do";
-			var param = "diaryContentRef=" + f.diaryContentRef.value +
-						"&diaryContent=" + encodeURIComponent(f.diaryContent.value);
-			sendRequest( url, param, sendCallback, "GET");
-		}
-		// 다이어리 글 수정 콜백메소드
-		function sendCallback() {
-			if ( xhr.readyState == 4 && xhr.status == 200 ) {
-				var data = xhr.responseText;
-				
-				var json = (new Function('return'+data))();
-				
-				if ( json.result == 'no' ) {
-					alert("수정실패");
-					return;
-				}
-				
-				alert("수정성공");
-				location.href="diary.do?idx=${param.diaryIdx}";
-			}
-		}
-	</script>
+	<script src="/cyworld_oracle/src/main/webapp/resources/js/diary/diary_modify_form.js"></script>
 </body>
 </html>
