@@ -83,7 +83,7 @@
 
 |비회원 메인 페이지|
 |---|
-|<p align="center"><img src="https://user-images.githubusercontent.com/114131063/230096141-c52f0ce6-b3b3-4f74-b90e-232a16e38d5c.png" width="800px" height="350px"></p>|
+|<p align="center"><img src="https://user-images.githubusercontent.com/114131063/230096141-c52f0ce6-b3b3-4f74-b90e-232a16e38d5c.png" width="800px" height="400px"></p>|
 
 <br>
 
@@ -91,7 +91,7 @@
 
 |메인 페이지|
 |---|
-|<p align="center"><img src="https://user-images.githubusercontent.com/114131063/230093760-798f08d6-a227-4118-8cc0-8c1b2509b728.png" width="800px" height="350px"></p>|
+|<p align="center"><img src="https://user-images.githubusercontent.com/114131063/230093760-798f08d6-a227-4118-8cc0-8c1b2509b728.png" width="800px" height="400px"></p>|
 
 <br>
 
@@ -103,7 +103,7 @@
 
 |프로필|
 |---|
-|<p align="center"><img src="https://user-images.githubusercontent.com/114131063/230096175-2b62030e-5e2b-46f4-ab36-7254b4f16a6b.png" width="800px" height="350px"></p>|
+|<p align="center"><img src="https://user-images.githubusercontent.com/114131063/230096175-2b62030e-5e2b-46f4-ab36-7254b4f16a6b.png" width="800px" height="400px"></p>|
 
 <br>
 
@@ -111,7 +111,7 @@
 
 |다이어리|
 |---|
-|<p align="center"><img src="https://user-images.githubusercontent.com/114131063/230096249-3e2aa7dd-f176-458e-84a1-dfaa1b4bfb0e.png" width="800px" height="350px"></p>|
+|<p align="center"><img src="https://user-images.githubusercontent.com/114131063/230096249-3e2aa7dd-f176-458e-84a1-dfaa1b4bfb0e.png" width="800px" height="400px"></p>|
 
 <br>
 
@@ -119,7 +119,7 @@
 
 |사진첩 1|
 |---|
-|<p align="center"><img src="https://user-images.githubusercontent.com/114131063/230096190-3e412d99-c001-475a-a0b4-a0e0a6be179a.png" width="800px" height="350px"></p>|
+|<p align="center"><img src="https://user-images.githubusercontent.com/114131063/230096190-3e412d99-c001-475a-a0b4-a0e0a6be179a.png" width="800px" height="400px"></p>|
 
 <br>
 
@@ -127,7 +127,7 @@
 
 |사진첩 2|
 |---|
-|<p align="center"><img src="https://user-images.githubusercontent.com/114131063/230096209-fee7bcdc-3f6b-499f-bf1e-499fc46e9d76.png" width="800px" height="350px"></p>|
+|<p align="center"><img src="https://user-images.githubusercontent.com/114131063/230096209-fee7bcdc-3f6b-499f-bf1e-499fc46e9d76.png" width="800px" height="400px"></p>|
 
 <br>
 
@@ -135,7 +135,7 @@
 
 |방명록|
 |---|
-|<p align="center"><img src="https://user-images.githubusercontent.com/114131063/230096270-54a5c188-3232-417e-8e82-7252486de22b.png" width="800px" height="350px"></p>|
+|<p align="center"><img src="https://user-images.githubusercontent.com/114131063/230096270-54a5c188-3232-417e-8e82-7252486de22b.png" width="800px" height="400px"></p>|
 
 <br>
 <br>
