@@ -16,6 +16,13 @@
 <br>
 <br>
 
+
+## 배포 주소 
+- <a href="http://54.199.77.149:9999/" target="_blank" rel="noopener noreferrer">Cyworld</a>
+<br>
+<br>
+
+
 ## 😀 개발 인원
 
 <br>
@@ -48,6 +55,7 @@
 - 비회원 메인 페이지 제작
 - 프로필 설정 페이지 제작 
 - 프로젝트 내 웹 페이지 레이아웃 제작 
+
 
 <br>
 <br>
