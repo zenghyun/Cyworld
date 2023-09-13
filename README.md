@@ -11,7 +11,6 @@
 
 **Cyworld**는 우리의 기억속에 남아있는 **Cyworld**를 CloneCoding 해보자는 생각으로 시작된 프로젝트입니다. 일촌간 일촌평 작성, 미니미 구매, 다이어리 작성, 사진첩 글쓰기, 일촌간 방명록 작성 등 기존에 있던 기능들을 최대한 구현해보자는 목표를 두고 시작하였습니다.  
 
-[프로젝트 PDF 다운로드](https://github.com/zenghyun/ClothesForYou/files/11159069/_2.pdf)
 <br>
 <br>
 <br>
@@ -50,7 +49,6 @@
 
 ## 👨‍💻 나의 역할 
 
-- 기획 및 구상  &nbsp;&nbsp; [기획 및 구상 PDF 다운로드](https://github.com/zenghyun/ClothesForYou/files/11159011/2._.pdf)
 - 메인 페이지 제작 
 - 비회원 메인 페이지 제작
 - 프로필 설정 페이지 제작 
@@ -149,4 +147,4 @@
 <br>
 
 ## Refactoring 
-- 채팅 기능 구현 
+- 채팅 기능 구현 중
