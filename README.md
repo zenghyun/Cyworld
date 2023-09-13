@@ -1,7 +1,7 @@
 # 👫  Cyworld
 <br>
 
- <p align="center"><img src="https://user-images.githubusercontent.com/114131063/230084222-95bb95f7-ec31-4e68-86b9-d91014ef1d0a.png" width="300px" height="480px"></p> 
+ <p align="center"><img src="https://github.com/zenghyun/Cyworld/assets/114131063/8a97fce0-c802-458c-ba57-d520000a1d96" width="300px" height="300px"></p> 
 
 <br>
 <br>
@@ -18,7 +18,7 @@
 
 
 ## 배포 주소 
-- <a href="http://54.199.77.149:9999/" target="_blank" rel="noopener noreferrer">Cyworld</a>
+- <a href="http://beansworld.store/login" target="_blank" rel="noopener noreferrer">Cyworld</a>
 <br>
 <br>
 
@@ -43,7 +43,7 @@
 
 ## 🕰 개발 기간
 
-### - 22.11.18 ~ 22.12.09
+### - 22.11.18 ~ 22.12.09 (Refactoring)
  
   <br>
   <br>
@@ -148,3 +148,5 @@
 <br>
 <br>
 
+## Refactoring 
+- 채팅 기능 구현 
